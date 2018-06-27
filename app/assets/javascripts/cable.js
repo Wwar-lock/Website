@@ -4,6 +4,9 @@
 //= require action_cable
 //= require_self
 //= require_tree ./channels
+//= require rails-ujs line
+//= require jquery
+//= require bootstrap-sprockets
 
 (function() {
   this.App || (this.App = {});
