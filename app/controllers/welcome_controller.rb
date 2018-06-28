@@ -8,4 +8,12 @@ class WelcomeController < ApplicationController
 
     end
 
+    def experience
+
+    end
+
+    def contact
+
+    end
+
 end
