@@ -1,27 +1,13 @@
-# README
+# Website :
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Routes added
 
-Things you may want to cover:
+2. Controllers added
 
-* Ruby version
+3. Styling under progress
 
-* System dependencies
+4. Content not added
 
-* Configuration
+Man at Work :)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Website
-
-Man At Work :)
+frontend (embedded Ruby).
