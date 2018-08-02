@@ -12,13 +12,17 @@ $navbar-default-bg: #0808AA;
     letter-spacing: -1px;
 }
 
+.jumbotron{
+    height: 720px;
+    background-image: url("cover1.jpg");
+    margin-bottom: 15px;
+}
+
 .footer{
-    margin-top: 0px;
-    font-weight: bold;
-    letter-spacing: -1px;
+    position: fixed;
+    width: 100%;
     background-color: black;
     color: aliceblue;
-    margin-bottom: 0px;
     text-align: center;
 }
 
